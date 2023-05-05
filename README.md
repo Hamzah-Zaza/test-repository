@@ -1,15 +1,23 @@
-# Description 
 
-<p>Description Description Description Description Description Description Description Description Description Description Description Description Description
-Description Description Description Description Description Description Description Description Description</p>
+---
 
+**Description**
 
-# Obstacles
+Description Description Description Description Description Description Description Description Description Description Description Description Description
+Description Description Description Description Description Description Description Description Description
 
-<p>Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles
-Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles</p>
+---
 
-# Future Improvements
+**Obstacles**
 
-<p>Improvements Improvements Improvements Improvements Improvements Improvements Improvements Improvements Improvements Improvements Improvements Improvements
-Improvements Improvements Improvements Improvements Improvements Improvements Improvements</p>
+Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles
+Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles Obstacles
+
+---
+
+**Future Improvements**
+
+Improvements Improvements Improvements Improvements Improvements Improvements Improvements Improvements Improvements Improvements Improvements Improvements
+Improvements Improvements Improvements Improvements Improvements Improvements Improvements
+
+---
