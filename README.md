@@ -1,5 +1,4 @@
-<!-- <h1>This heading will not display when fetched with an API</h1> -->
-<hr>
+<h1 style="display:none;">Title of Read Me</h1>
 
 <p>Description Description Description Description Description Description Description Description Description Description Description Description Description
 Description Description Description Description Description Description Description Description Description</p>
