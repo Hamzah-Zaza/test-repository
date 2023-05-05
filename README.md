@@ -1,4 +1,4 @@
-<h1 style="display:none;">Title of Read Me</h1>
+<h1 >Title of Read Me</h1>
 
 <p>Description Description Description Description Description Description Description Description Description Description Description Description Description
 Description Description Description Description Description Description Description Description Description</p>
